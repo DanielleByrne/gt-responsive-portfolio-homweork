@@ -19,6 +19,7 @@
 .navbar-light .navbar-nav .show > .nav-link {
   color: whitesmoke;
 }
+
 /* background image */
  body {
    background-image: url(https://files.slack.com/files-pri/T013NAE6PDY-F01451KKCNB/gtpfbg.png);
@@ -37,32 +38,21 @@ h1 {
   background-color: teal;
   border-color: teal;
 }
-/* border under contac attempts- both failed  */
-/* .border-bottom{
-    border-bottom: thick;
-    border-bottom: grey;
-} */
-
-/* .border-bottom {
-    border-bottom: 20px solid grey!important;
-} */
 
 img {
   float: left;
   display: inline-block;
   margin: 10px;
 }
-/* footer attempts  */
-/* .footer{
+/* footer */
+.footer{
   position: fixed;
-  left:0;
   bottom: 0;
   width: 100%;
+  height: 50px;
   background-color: grey;
+  border-top: solid;
+  border-color: teal;
+  border-width: 8px;
 
-} */
-.card-footer {
-  padding: .75rem 1.25rem;
-  background-color: grey;
-  border-top: 5px solid teal;
 }
