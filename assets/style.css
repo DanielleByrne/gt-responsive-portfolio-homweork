@@ -5,6 +5,7 @@
 /* Navbar text color */
 .navbar-light .navbar-brand {
   color: whitesmoke;
+  font-family: "Merriweather", serif;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -32,14 +33,14 @@
 } */
 
 h1 {
-    color: teal;
+  color: teal;
 }
 
 /* submit button color */
 .btn-primary {
-    color: #fff;
-    background-color: teal;
-    border-color: teal;
+  color: #fff;
+  background-color: teal;
+  border-color: teal;
 }
 /* border under contac attempts- both failed  */
 /* .border-bottom{
@@ -50,3 +51,13 @@ h1 {
 /* .border-bottom {
     border-bottom: 20px solid grey!important;
 } */
+
+img {
+  float: left;
+  display: inline-block;
+  margin: 10px;
+}
+
+h1 {
+    font-family: "Merriweather", serif;
+}
