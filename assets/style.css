@@ -19,19 +19,10 @@
 .navbar-light .navbar-nav .show > .nav-link {
   color: whitesmoke;
 }
-/* attempts at background image - fail */
-/* .bg {
-    background-image: url(https://files.slack.com/files-pri/T013NAE6PDY-F01451KKCNB/gtpfbg.png);
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-} */
-
-/* .container {
-    background-image: url(https://files.slack.com/files-pri/T013NAE6PDY-F01451KKCNB/gtpfbg.png);
-} */
-
+/* background image */
+ body {
+   background-image: url(https://files.slack.com/files-pri/T013NAE6PDY-F01451KKCNB/gtpfbg.png);
+ }
 /* h1 formatting */
 h1 {
   color: teal;
@@ -61,4 +52,17 @@ img {
   display: inline-block;
   margin: 10px;
 }
+/* footer attempts  */
+/* .footer{
+  position: fixed;
+  left:0;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
 
+} */
+.card-footer {
+  padding: .75rem 1.25rem;
+  background-color: grey;
+  border-top: 5px solid teal;
+}
