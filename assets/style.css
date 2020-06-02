@@ -32,8 +32,12 @@
     background-image: url(https://files.slack.com/files-pri/T013NAE6PDY-F01451KKCNB/gtpfbg.png);
 } */
 
+/* h1 formatting */
 h1 {
   color: teal;
+}
+h1 {
+    font-family: "Merriweather", serif;
 }
 
 /* submit button color */
@@ -58,6 +62,3 @@ img {
   margin: 10px;
 }
 
-h1 {
-    font-family: "Merriweather", serif;
-}
