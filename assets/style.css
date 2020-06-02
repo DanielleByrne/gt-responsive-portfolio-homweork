@@ -18,5 +18,35 @@
 .navbar-light .navbar-nav .show > .nav-link {
   color: whitesmoke;
 }
+/* attempts at background image - fail */
+/* .bg {
+    background-image: url(https://files.slack.com/files-pri/T013NAE6PDY-F01451KKCNB/gtpfbg.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
 
-/* Navbar text alignment */
+/* .container {
+    background-image: url(https://files.slack.com/files-pri/T013NAE6PDY-F01451KKCNB/gtpfbg.png);
+} */
+
+h1 {
+    color: teal;
+}
+
+/* submit button color */
+.btn-primary {
+    color: #fff;
+    background-color: teal;
+    border-color: teal;
+}
+/* border under contac attempts- both failed  */
+/* .border-bottom{
+    border-bottom: thick;
+    border-bottom: grey;
+} */
+
+/* .border-bottom {
+    border-bottom: 20px solid grey!important;
+} */
