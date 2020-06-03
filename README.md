@@ -28,7 +28,9 @@ This HTML file uses Semantic HTML elements to increase accessibility of the site
 
 ## Credits
 
-This was a project I completed indivually as a homework assignment in my Georgia Tech Coding Bootcamp.
+This was a project I completed as a homework assignment in my Georgia Tech Coding Bootcamp. I used Bootstrap to create this application layout and design.
+
+[Link to Bootstrap] (https://getbootstrap.com/)
 
 
 
