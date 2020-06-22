@@ -1,6 +1,6 @@
 /* Navbar coloring */
 .bg-light {
-  background-color: teal !important;
+  background-color: #8E443D !important;
 }
 /* Navbar text color */
 .navbar-light .navbar-brand {
@@ -20,14 +20,15 @@
   color: whitesmoke;
 }
 
-/* background image */
+/* background color */
 body {
-  background-image: url(https://files.slack.com/files-pri/T013NAE6PDY-F01451KKCNB/gtpfbg.png);
+  background-color: #FFDBDA;
+  /* background-image: url(https://images.pexels.com/photos/207253/pexels-photo-207253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260); */
 }
 
 /* h1 formatting */
 h1 {
-  color: teal;
+  color: #8E443D;
 }
 h1 {
   font-family: "Merriweather", serif;
@@ -36,8 +37,8 @@ h1 {
 /* submit button color */
 .btn-primary {
   color: #fff;
-  background-color: teal;
-  border-color: teal;
+  background-color: #8E443D;
+  border-color: #8E443D;
 }
 /* images */
 .about-image {
@@ -64,6 +65,6 @@ h1 {
   height: 40px;
   background-color: grey;
   border-top: solid;
-  border-color: teal;
+  border-color: #8E443D;
   border-width: 8px;
 }
