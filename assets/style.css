@@ -68,3 +68,9 @@ h1 {
   border-color: #8E443D;
   border-width: 8px;
 }
+
+a {
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+}
