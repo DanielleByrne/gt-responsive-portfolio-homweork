@@ -1,4 +1,4 @@
-# Responsive Porftolio
+#Porftolio
 
 [Link to Webpage] (https://daniellebyrne.github.io/gt-responsive-portfolio-homweork/)
 
@@ -19,16 +19,16 @@ Clone the repository from GitHub and open the index.html file in a browser windo
 ## Usage 
 
 This HTML file uses Semantic HTML elements to increase accessibility of the site while maintaining the appearance. 
-![AboutImage](assets/About-img.jpeg)
-![PortfolioImage](assets/Portfolio-image.jpeg)
-![ContactImage](assets/Contact-img.jpeg)
+![AboutImage](assets/AboutPage.png)
+![PortfolioImage](assets/PortfolioPage.png)
+![ContactImage](assets/ContectPage.png)
 
 
 
 
 ## Credits
 
-This was a project I completed as a homework assignment in my Georgia Tech Coding Bootcamp. I used Bootstrap to create this application layout and design and Google Fonts
+This was a project I completed as a homework assignment in my Georgia Tech Coding Bootcamp, and have updated with past assignments and projects. I used Bootstrap to create this application layout and design and Google Fonts
 
 [Link to Bootstrap] (https://getbootstrap.com/)
 
